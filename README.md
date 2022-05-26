@@ -1,1 +1,1 @@
-# Heart-Diseases-Net
+# Heart Diseases Net
